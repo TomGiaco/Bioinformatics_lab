@@ -1,2 +1,3 @@
 # Bioinformatics_lab
-Classification of breast cancer cells based on conditions of hypoxia and normoxia
+Machine learning research to detect in advance tumoral cells based on conditions of hypoxia and normoxia.
+
